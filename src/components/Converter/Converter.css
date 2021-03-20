@@ -1,0 +1,23 @@
+.converter-container {
+    width: 100vw;
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.errors {
+    color: red;
+    text-align: center;
+    font-size: 0.8em;
+    font-weight:bold;
+}
+
+.formula-text {
+    background-color:gold;
+    color: white;
+    font-weight: bold;
+    padding: 1vmin;
+    border-radius: 12px;
+}

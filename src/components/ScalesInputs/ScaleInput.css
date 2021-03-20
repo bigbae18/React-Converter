@@ -1,0 +1,18 @@
+.input-container {
+    height: 20vh;
+    width: 50vw;
+    display: flex;
+    align-items: center;
+}
+
+label {
+    font-size: 1.5em;
+}
+
+.input-control {
+    width: 50vw;
+    text-align:center;
+    height: 5vh;
+    border-radius: 2vmin;
+    outline: none;
+}
